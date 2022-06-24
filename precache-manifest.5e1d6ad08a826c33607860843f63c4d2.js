@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "518f0004a0e0db39389a",
+    "revision": "4c6ebb461365af24688d",
     "url": "/DigTheSounds/static/css/main.43c4a3b1.chunk.css"
   },
   {
-    "revision": "518f0004a0e0db39389a",
-    "url": "/DigTheSounds/static/js/main.518f0004.chunk.js"
+    "revision": "4c6ebb461365af24688d",
+    "url": "/DigTheSounds/static/js/main.4c6ebb46.chunk.js"
   },
   {
     "revision": "1f8777550d0c14195a51",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/DigTheSounds/static/js/runtime~main.60423c92.js"
   },
   {
-    "revision": "a3adbc7764a0d9bbe3d562f9e6b8db34",
+    "revision": "0a57f470fc966382821fc1cb998110e4",
     "url": "/DigTheSounds/index.html"
   }
 ];
